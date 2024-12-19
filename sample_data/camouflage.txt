@@ -1,0 +1,6 @@
+word_swapping:replace_security_terms:Replaces security-related terms with benign alternatives
+synonym_injection:add_business_context:Adds legitimate-looking business context around suspicious elements
+zero_width_chars:invisible_markers:Inserts zero-width characters between words to avoid detection
+word_swapping:corporate_style:Transforms text to match corporate communication style
+synonym_injection:urgent_business:Adds urgency without suspicious keywords
+zero_width_chars:spacing_manipulation:Uses various space and formatting characters
